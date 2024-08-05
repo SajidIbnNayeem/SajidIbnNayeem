@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sajid Ibn Nayeem
+- 👋 Hi, I’m Sajid Ibn Nayeem
   
 - I am a **Student**
 
