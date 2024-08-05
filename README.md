@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Sajid Ibn Nayeem
-  
+<a href="#"><img align="right" height=290 src="assets/saj.svg"></a>
+
 - I am a **Student**
-
 - I am from **Kashmir**
-
 - Love of my life : **Sleeping**
-
 - Dream: become a software engineer
-
 - Fun Fact: I spend more time in **commenting**
 
   
