@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**SajidIbnNayeem/SajidIbnNayeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # 👋 Hi, I’m Sajid Ibn Nayeem
+<a href="#"><img align="right" height=150 src="sin.svg"></a>
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/SajidIbnNayeem">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  
+   <a href="https://www.instagram.com/sajid_ibn_nayeem?igsh=MXdnNmttb292MnFuaQ==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   
+   <a href="https://twitter.com/Sajid_nayeem_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
