@@ -15,16 +15,6 @@
       <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/></a>
     <br>
-<!-- Tools: heading -->
-<!--
- <h3>
- <p align="left">
-⚙ Tools:
-      </p>
-      </h3>
- <br>
-
- 
  ### Connect with me:
 <div id="badges">
   <a href="https://github.com/SajidIbnNayeem">
