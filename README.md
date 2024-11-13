@@ -1,5 +1,5 @@
  # 👋 Hi, I’m Sajid Ibn Nayeem
-<a href="#"><img align="right" height=150 src="sin.svg"></a>
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/SajidIbnNayeem">
@@ -15,6 +15,7 @@
   </a>
 </div>
 </h3>
+<a href="#"><img align="right" height=150 src="sin.svg"></a>
 <p align="left"> 
 <!-- Languages: CPP -->
       <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cpp" width="48" height="40"/> </a> 
